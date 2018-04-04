@@ -1,4 +1,4 @@
-package transfer
+package company_pay
 
 //企业付款为企业提供付款至用户零钱的能力，支持通过API接口付款
 
